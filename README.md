@@ -13,3 +13,8 @@ Download [`lucid-dreaming-reality-checks.macro`](lucid-dreaming-reality-checks.m
 ## Debug mode
 
 Set the local variable `rc_debug` to `true` to test the macro without waiting. Checks then fire every 20 to 40 seconds and the time window is ignored.
+
+## Screenshots
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c0036bd3-31bb-47b6-beba-d9f635b47099" />
+
