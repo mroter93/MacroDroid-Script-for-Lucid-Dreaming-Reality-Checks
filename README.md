@@ -16,5 +16,5 @@ Set the local variable `rc_debug` to `true` to test the macro without waiting. C
 
 ## Screenshots
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c0036bd3-31bb-47b6-beba-d9f635b47099" />
+<img width="180" height="440" alt="image" src="https://github.com/user-attachments/assets/c0036bd3-31bb-47b6-beba-d9f635b47099" />
 
