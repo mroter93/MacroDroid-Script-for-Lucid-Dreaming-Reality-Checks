@@ -2,8 +2,14 @@
 
 A [MacroDroid](https://www.macrodroid.com/) macro for lucid dreaming practice.
 
-Displays a random "Reality Check" notification at random intervals (30–180 minutes) between 9:00 a.m. and 11:00 p.m. The timer for the next notification starts immediately upon display; any open notification is replaced by the next one. Debug: Set the local variable `rc_debug` to `true` — checks then fire every 20–40 seconds, ignoring the time window.
+It shows a random reality check as a notification at random intervals of 30 to 180 minutes, between 9:00 a.m. and 11:00 p.m. The timer for the next notification starts as soon as one is displayed. If a notification is still open when the next one arrives, it simply gets replaced.
+
+There are 15 different reality checks, for example holding your nose and trying to inhale, counting your fingers, or reading a word twice to see if it changes.
 
 ## Install
 
-Import [`lucid-dreaming-reality-checks.macro`](lucid-dreaming-reality-checks.macro) in MacroDroid via **Import macro**.
+Download [`lucid-dreaming-reality-checks.macro`](lucid-dreaming-reality-checks.macro) and import it in MacroDroid via **Import macro**.
+
+## Debug mode
+
+Set the local variable `rc_debug` to `true` to test the macro without waiting. Checks then fire every 20 to 40 seconds and the time window is ignored.
